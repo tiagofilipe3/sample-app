@@ -1,4 +1,4 @@
-# sample-nutricional-app (WIP)
+# sample-nutritional-app (WIP)
 
 A sample React.js nutritional app.
 
